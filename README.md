@@ -1,16 +1,22 @@
-### Hi there 👋
+ <!-- Hi there! Feel free to make this your own but don't use my data -->
+  
+<div align="center">
+  <a href="https://www.justbearded.com/"><img src="https://www.justbearded.com/assets/img/favicon.png" alt="justBearded Header"></a>
 
-<!--
-**justBearded/justBearded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
+  
+<h3>Hey! 👋🤓<br>I'm Mike Van Amburg</br>I love building iOS apps and pushing what I can do with Swift <br>an indie Developer, <br>Creator of SweatSesh</h3>
 
-Here are some ideas to get you started:
+<h4> <a href="https://www.justbearded.com/">Website</a> • <a href="https://www.justbearded.com/blog">Blog</a></h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr width="50%" style="height:5px;">
+
+
+<h3>💼 What & Where I am currently working at/on/as</h3>
+
+<p>
+<a href="https://www.potatotv.co/">Consulting for PotatoTV lead iOS developer 💼</a><br>
+<a href="#">indie project "Operation Curls 👨🏼‍💻</a><br>
+
+</p>
+</div>
