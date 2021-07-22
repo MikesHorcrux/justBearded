@@ -15,7 +15,7 @@
 <h3>💼 What & Where I am currently working at/on/as</h3>
 
 <p>
-<a href="https://www.potatotv.co/">Consulting for PotatoTV lead iOS developer 💼</a><br>
+<a href="https://getrec.com">VP of Engineering at Rec💼</a><br>
 <a href="#">indie project "Operation Curls 👨🏼‍💻</a><br>
 
 </p>
