@@ -15,7 +15,7 @@
 <h3>💼 What & Where I am currently working at/on/as</h3>
 
 <p>
-<a href="https://getrec.com">Contracting for a few clients 💼</a><br>
+<a href="https://justbearded.com">Contracting for a few clients 💼</a><br>
 <a href="#">indie project Tasty: Find nearby food trucks and thier menus via our map on iOS and MacOS💻</a><br>
 
 </p>
