@@ -16,7 +16,7 @@
 
 <p>
 <a href="https://getrec.com">VP of Engineering at Rec💼</a><br>
-<a href="#">indie project "Operation Curls 👨🏼‍💻</a><br>
+<a href="#">indie project Tasty: Find nearby food trucks and thier menus via our map on iOS and MacOS💻</a><br>
 
 </p>
 </div>
