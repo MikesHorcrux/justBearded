@@ -1,18 +1,33 @@
- <!-- Hi there! Feel free to make this your own but don't use my data -->
-  
 
-<h3>Hey! 👋🤓<br>I'm Mike Van Amburg</br>I love building iOS apps and pushing what I can do with Swift <br>an indie Developer, <br>Creator of SweatSesh</h3>
-
-<h4> <a href="https://www.justbearded.com/">Website</a> • <a href="https://www.justbearded.com/blog">Blog</a></h4>
-
-<hr width="50%" style="height:5px;">
+# Hey Y'all, I'm Mike! 👋
 
 
-<h3>💼 What & Where I am currently working at/on/as</h3>
+## 🦄 About Me
+I'm an iOS developer that enjoys building cool things. 
+Always down for a cold brew coffee and a chat about tech and software!
 
-<p>
-<a href="https://justbearded.com">Lead iOS for Loop 💼</a><br>
-<a href="#">indie project Tasty: Find nearby food trucks and thier menus via our map on iOS and MacOS💻</a><br>
 
-</p>
-</div>
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on:  Eventsly 
+
+🧠 I'm currently learning: ML and Deep learning
+
+👯‍♀️ I'm looking to collaborate on: Somthing fun
+
+📫 How to reach me: Mike@justbearded.com
+
+😄 Pronouns: (He / Him)
+
+⚡️ Fun fact: I love to garden 🌿
+
+
+## Support
+
+For support, email Mike@justbearded.com.
+
+
+## 🔗 Links
+[![Website](https://img.shields.io/badge/my_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://justbearded.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-van-amburg/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/just_bearded)
+
