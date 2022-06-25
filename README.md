@@ -20,6 +20,7 @@ Always down for a cold brew coffee and a chat about tech and software!
 
 ⚡️ Fun fact: I love to garden 🌿
 
+## 👨‍💻 Open for work 
 
 ## Support
 
