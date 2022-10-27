@@ -8,7 +8,7 @@ Always down for a cold brew coffee and a chat about tech and software!
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on:  Eventsly 
+👩‍💻 I'm currently working on:  Secret Elves
 
 🧠 I'm currently learning: ML and Deep learning
 
